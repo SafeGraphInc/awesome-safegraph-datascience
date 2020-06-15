@@ -34,7 +34,7 @@ A list of code snippets and workflows for reproducing awesome data science with 
 * [SafeGraph Docs page](https://docs.safegraph.com/docs)
 * [SafeGraph data science resources page](https://docs.safegraph.com/docs/data-science-resources)
 
-### SafeGraph Data Consortium
+## SafeGraph Data Consortium
 * [Sign-up to join the Data Consortium](https://www.safegraph.com/covid-19-data-consortium)
 * [SafeGraph Data Consortium Quick Start Guide](https://docs.google.com/document/d/1Xx-nzOX1qF3WfOpg4D8aemwFrrAkQaJuT0-1-CbgxQs/edit?usp=sharing)
 * [SafeGraph Data Consosrtium Products Spreadsheet](https://docs.google.com/spreadsheets/d/1UNWvPzkUTTlXBZ6M6iGhM_7sr8h-MxsZdE7iOszkAmk/edit#gid=0)
