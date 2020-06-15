@@ -17,7 +17,7 @@ A list of code snippets and workflows for reproducing awesome data science with 
 * Awesome examples of SafeGraph data analysis with spreadsheets
 
 ### STATA
-* Awesome exampels of SafeGraph data analysis with STATA
+* Awesome examples of SafeGraph data analysis with STATA
 
 ----------
 ## Results and Visualizations
