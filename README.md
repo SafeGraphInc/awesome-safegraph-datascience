@@ -1,11 +1,13 @@
 # awesome-safegraph-datascience
 
-This site is a community/crowdsourced collection of datasets, tools, research, and community resources related to the [SafeGraph COVID-19 data consortium](https://www.safegraph.com/covid-19-data-consortium) and SafeGraph data. Well over 1000 groups are contributing to COVID-19 data science research through the consortium. Given the growth of the community and the value of their contributions, we are leveraging the [awesome-list] approach to gather and organize.
+This site is a community/crowdsourced collection of datasets, tools, research, and community resources related to 
+SafeGraph Data and the [SafeGraph COVID-19 data consortium](https://www.safegraph.com/covid-19-data-consortium). Over 1000 groups are contributing to COVID-19 data science research through the consortium. Given the growth of the community and the value of their contributions, we are leveraging the [awesome-list] approach to gather and organize.
 
-If you would like to contribute a software tool, research project, use case, code, or data product related to or using SafeGraph data, consider:
+If you would like to contribute a software tool, research project, use case, code, or data product related to or using SafeGraph data, please add it to the list using either:
 
-1) a [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) with the addition
-2) an [new issue](https://github.com/SafeGraphInc/awesome-safegraph-datascience/issues/new/choose) that includes details of what to add
+1) a [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) with your items added to the list
+or 
+2) an [new issue](https://github.com/SafeGraphInc/awesome-safegraph-datascience/issues/new/choose) that includes details of what to add (link, description) and we will add it. 
 
 Don't see a category that matches your needs--make a new one! 
 
