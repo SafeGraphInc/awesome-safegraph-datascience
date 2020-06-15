@@ -1,9 +1,11 @@
 # awesome-safegraph-datascience
 
 This site is a community, crowdsourced collection of datasets, tools, research, and community resources related to 
-SafeGraph Data and the [SafeGraph COVID-19 data consortium](https://www.safegraph.com/covid-19-data-consortium). Over 1000 groups are contributing to COVID-19 data science research through the consortium. Given the growth of the community and the value of their contributions, we are leveraging the [awesome-list] approach to gather and organize.
+SafeGraph Data and the [SafeGraph COVID-19 data consortium](https://www.safegraph.com/covid-19-data-consortium). Thousands of organizations work with SafeGraph Data, and are contributing to COVID-19 data science research through the [Safegraph Data Consortium](https://github.com/SafeGraphInc/awesome-safegraph-datascience#safegraph-data-consortium). We are leveraging the [awesome-list] approach to organize and share the rapidly growing set of contributions from this community.
 
-If you would like to contribute a software tool, research project, use case, code, or data product related to or using SafeGraph data, please add it to the list using either:
+**Please add to the list** :thumbsup: :chart_with_upwards_trend: **:**
+
+Do you have a software tool, research project, use case, code snippet, or data product related to or using SafeGraph data, that you'd like to recommend or share? Please add it to the list using either:
 
 1) a [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) with your items added to the list
 or 
