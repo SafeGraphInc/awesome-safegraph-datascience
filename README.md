@@ -1,6 +1,18 @@
 # awesome-safegraph-datascience
-* A community-supported list of awesome data science resources relevant to SafeGraph data. 
-* Please contribute! (How?) -- All links should be publicly accessible. 
+
+This site is a community/crowdsourced collection of datasets, tools, research, and community resources related to the [SafeGraph COVID-19 data consortium](https://www.safegraph.com/covid-19-data-consortium) and SafeGraph data. Well over 1000 groups are contributing to COVID-19 data science research through the consortium. Given the growth of the community and the value of their contributions, we are leveraging the [awesome-list] approach to gather and organize.
+
+If you would like to contribute a software tool, research project, use case, code, or data product related to or using SafeGraph data, consider:
+
+1) a [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) with the addition
+2) an [new issue](https://github.com/SafeGraphInc/awesome-safegraph-datascience/issues/new/choose) that includes details of what to add
+
+Don't see a category that matches your needs--make a new one! 
+
+## What is SafeGraph?
+
+SafeGraph is a data company! The coronavirus (COVID-19) global pandemic has brought massive and ongoing changes, including to how people interact with their surroundings and participate in the economy. SafeGraph, committed to open access to information, has created a dashboard to share insights daily into how the economy is re-opening up, and how America is returning to a new normal. This [map and dashboard](https://www.safegraph.com/dashboard/reopening-the-economy-foot-traffic?s=US&d=06-12-2020&i=all) are built from SafeGraph Patterns: a dataset of foot traffic counts and visitor insights to 5 million Points-of-Interest. With data on over 5,500 retail chains, and 3 million mom-and-pop businesses, these data provide deep and timely insight into US industry & economic recovery.
+
 ----------
 ## Code
 A list of code snippets and workflows for reproducing awesome data science with SafeGraph data
