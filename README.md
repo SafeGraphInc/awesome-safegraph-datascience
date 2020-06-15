@@ -37,6 +37,7 @@ A list of code snippets and workflows for reproducing awesome data science with 
 * CARTO
 * Databricks
 * Snowflake
+* Tableau
 
 
 ----------
