@@ -19,7 +19,7 @@ Don't see a category that matches your needs--make a new one!
 
 ----------
 ## Code
-A list of code snippets and workflows for reproducing awesome data science with SafeGraph data
+A list of code snippets, scripts, notebooks, and workflows for reproducing awesome data science with SafeGraph data
 
 ### python
 * [Simple Outlier Filtering](https://colab.research.google.com/drive/1LwQNJp9qI0abUzd5jYwT_xJTHJ98iZsD#sandboxMode=true) by [Ryan Fox Squire](https://github.com/ryanfoxsquire) Python Google Co-Lab Notebook showing simple IQR\*k based outlier filtering
@@ -29,7 +29,7 @@ A list of code snippets and workflows for reproducing awesome data science with 
 * The [SafeGraphR github repo](https://github.com/SafeGraphInc/SafeGraphR) -- Package for reading and analyzing SafeGraph foot traffic data
 * [The Stanford Future Bay Initiative: Covid-19 Rapid Response Projects](stanfordfuturebay.github.io/covid19) -- a collection of R functions and documentation for processing, normalizing, and analyzing SafeGraph foot-traffic data
 
-### excel / spreadsheets
+### Excel / Spreadsheets
 * Awesome examples of SafeGraph data analysis with spreadsheets
 
 ### STATA
@@ -45,7 +45,7 @@ A list of code snippets and workflows for reproducing awesome data science with 
 * [SafeGraph Free Point-of-interest Matching Tool](https://docs.safegraph.com/docs/matching-service-overview)
 * [Movable-type Geohashes page](https://www.movable-type.co.uk/scripts/geohash.html)
 * [arthur-e polygon WKT visualization](https://arthur-e.github.io/Wicket/sandbox-gmaps3.html)
-* 
+
 
 ----------
 ## Recommended Licensed Software
@@ -54,6 +54,7 @@ A list of code snippets and workflows for reproducing awesome data science with 
 * Databricks
 * Snowflake
 * Tableau
+* PowerBI
 
 
 ----------
