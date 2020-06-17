@@ -24,6 +24,7 @@ A list of code snippets, scripts, notebooks, and workflows for reproducing aweso
 ### python
 * [Simple Outlier Filtering](https://colab.research.google.com/drive/1LwQNJp9qI0abUzd5jYwT_xJTHJ98iZsD#sandboxMode=true) by [Ryan Fox Squire](https://github.com/ryanfoxsquire) Python Google Co-Lab Notebook showing simple IQR\*k based outlier filtering
 * [Quickly visualize SafeGraph data on a map with python](https://colab.research.google.com/drive/1_0KvKUMYP1mf6ZAhM0X4LTDUPHzsz40e#offline=true&sandboxMode=true) by [Ryan Fox Squire](https://github.com/ryanfoxsquire)
+* [Accessing JSON objects inside of Pandas](https://colab.research.google.com/drive/1Bcx-JI2qfUbRPJ4N9NhwpgASRZsSVxPp?usp=sharing) by [Jack Lindsay](https://github.com/Trippl7777/code_repo) Python Google Co-Lab Notebook showing how to explode JSON objects into multiple columns
 
 ### R
 * The [SafeGraphR github repo](https://github.com/SafeGraphInc/SafeGraphR) -- Package for reading and analyzing SafeGraph foot traffic data
