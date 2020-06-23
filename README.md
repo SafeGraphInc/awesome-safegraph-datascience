@@ -27,6 +27,7 @@ A list of code snippets, scripts, notebooks, and workflows for reproducing aweso
 * [Accessing JSON objects inside of Pandas](https://colab.research.google.com/drive/1Bcx-JI2qfUbRPJ4N9NhwpgASRZsSVxPp?usp=sharing) by [Jack Lindsay](https://github.com/Trippl7777/code_repo) Python Google Co-Lab Notebook showing how to explode JSON objects into multiple columns
 *	[Connecting Safegraph_place_id to Census Block Groups (CBGs)](https://colab.research.google.com/drive/1Kt3vPVIQJUq4QeJ-rE08URpIJEr1g2H3#offline=true&sandboxMode=true) by [Ryan Fox Squire](https://github.com/ryanfoxsquire)
 * [Download from Wasabi with Boto3](https://github.com/SafeGraphInc/safegraph_py/blob/master/Boto3_template.py) by Thomas Roderick
+* [test](google.com) by Jack Lindsay 
 
 ### R
 * The [SafeGraphR github repo](https://github.com/SafeGraphInc/SafeGraphR) -- Package for reading and analyzing SafeGraph foot traffic data
