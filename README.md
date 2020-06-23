@@ -30,7 +30,7 @@ A list of code snippets, scripts, notebooks, and workflows for reproducing aweso
 
 ### R
 * The [SafeGraphR github repo](https://github.com/SafeGraphInc/SafeGraphR) -- Package for reading and analyzing SafeGraph foot traffic data
-* [The Stanford Future Bay Initiative: Covid-19 Rapid Response Projects](stanfordfuturebay.github.io/covid19) -- a collection of R functions and documentation for processing, normalizing, and analyzing SafeGraph foot-traffic data
+* [The Stanford Future Bay Initiative: Covid-19 Rapid Response Projects](https://github.com/stanfordfuturebay/stanfordfuturebay.github.io/tree/master/covid19) -- a collection of R functions and documentation for processing, normalizing, and analyzing SafeGraph foot-traffic data
 
 ### Excel / Spreadsheets
 * Awesome examples of SafeGraph data analysis with spreadsheets
