@@ -72,6 +72,7 @@ A list of code snippets, scripts, notebooks, and workflows for reproducing aweso
 ----------
 ## Helpful Free Software / Websites 
 * [SafeGraph Free Point-of-interest Matching Tool](https://docs.safegraph.com/docs/matching-service-overview)
+* [How to Join X with Y](https://docs.google.com/spreadsheets/d/14xMfW9xAXZLWuNcrSzxL16ddve0HAQ21zh99RAOjpsM/edit?usp=sharing) a collection of free resources/tools for joining different geospatial areas together (e.g., County <> Zip Code)
 * [SafeGraph USA census block group lookup and visualization](http://safegraph.maps.arcgis.com/apps/webappviewer/index.html?id=d2a747428fd74ba6ae80ca6d677672bd) -- want to quickly see the shape of a CBG on a map? 
 * [Movable-type Geohashes page](https://www.movable-type.co.uk/scripts/geohash.html)
 * [arthur-e polygon WKT visualization](https://arthur-e.github.io/Wicket/sandbox-gmaps3.html)
