@@ -36,7 +36,8 @@ A list of code snippets, scripts, notebooks, and workflows for reproducing aweso
 * [TEST ME](test.com)
 
 * [Jack test push](google.com) This is just a test FORK
-* [THIS IS MY 2nd TEST](google.com) AGAIN JUST A TEST FORK 2
+* [I erased a piece and added this one](erase.com)
+* [and I added this one](onDesktop.com)
 
 
 ### R
