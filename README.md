@@ -7,7 +7,7 @@ SafeGraph Data and the [SafeGraph COVID-19 data consortium](https://www.safegrap
 
 Do you have a software tool, research project, use case, code snippet, or data product related to or using SafeGraph data, that you'd like to recommend or share? Please add it to the list using either:
 
-1) a [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) with your items added to the list
+1) a [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) with your items added to the list. This is so easy, you can [just edit the file directly in your browser](https://github.com/SafeGraphInc/awesome-safegraph-datascience/edit/master/README.md) and then click the "commit" button. 
 or 
 2) an [new issue](https://github.com/SafeGraphInc/awesome-safegraph-datascience/issues/new/choose) that includes details of what to add (link, description) and we will add it. 
 
