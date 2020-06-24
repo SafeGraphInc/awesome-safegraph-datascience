@@ -21,7 +21,7 @@ Don't see a category that matches your needs--make a new one!
 ## Code
 A list of code snippets, scripts, notebooks, and workflows for reproducing awesome data science with SafeGraph data
 
-### python
+### python 
 * [SafeGraph Core Places Starter Notebook -- CoLab](https://colab.research.google.com/drive/1OUopjpogmucEghS_7Ufxl3lKIp8s9H1h#offline=true&sandboxMode=true) by [Ryan Fox Squire](https://github.com/ryanfoxsquire) (SafeGraph) -- Brand new to SafeGraph Places data? This will help you get oriented. 
 * [Simple Outlier Filtering -- CoLab Notebook](https://colab.research.google.com/drive/1LwQNJp9qI0abUzd5jYwT_xJTHJ98iZsD#sandboxMode=true) by [Ryan Fox Squire](https://github.com/ryanfoxsquire) (SafeGraph) -- Python Google CoLab Notebook showing simple IQR\*k based outlier filtering
 * [Quickly visualize SafeGraph data on a map with python -- CoLab Notebook](https://colab.research.google.com/drive/1_0KvKUMYP1mf6ZAhM0X4LTDUPHzsz40e#offline=true&sandboxMode=true) by [Ryan Fox Squire](https://github.com/ryanfoxsquire)
@@ -56,11 +56,16 @@ A list of code snippets, scripts, notebooks, and workflows for reproducing aweso
 * [Analyze Demographic Profiles of Retail Visitors From SafeGraph Patterns Data](https://blog.safegraph.com/safegraphs-data-on-brick-and-mortar-customer-demographics-is-the-most-accurate-and-comprehensive-86915c507c20) by [Ryan Fox Squire](https://github.com/ryanfoxsquire) (SafeGraph)
 * [Calculate Statistics and Confidence Intervals from SafeGraph Patterns](https://blog.safegraph.com/demographic-profiles-with-rigorous-statistics-using-safegraph-patterns-data-9836b9d02310) by [Ryan Fox Squire](https://github.com/ryanfoxsquire) (SafeGraph)
 * [SafeGraph's Visit Attribution Whitepaper](https://www.safegraph.com/visit-attribution) -- How does SafeGraph combine GPS data and point-of-interest polygon data to measure visits. 
+* [Covid-19 Case Count Forecasting using SafeGraph data](https://github.com/UT-Covid/USmortality/blob/6058aec5333f9990ff0dfd47f74b85f6d7a9f073/README.md#what-data-sources-do-you-use) from UT Austin
 
 ----------
-## Results and Visualizations
-* [SafeGraph Data Publications](https://www.safegraph.com/publications) -- Full list of all publications using SafeGraph data
-* [The SafeGraph Covid-19 Re-opening Dashboard](https://www.safegraph.com/dashboard/reopening-the-economy-foot-traffic)
+## Results, Dashboards, and Visualizations (Inspiration)
+* [SafeGraph Data Publications](https://www.safegraph.com/publications) -- Full list of all publications using SafeGraph data. If you see something is missing, please let SafeGraph know by emailing datastories AT safegraph DOT com
+* [The SafeGraph Covid-19 Re-opening Dashboard](https://www.safegraph.com/dashboard/reopening-the-economy-foot-traffic) -- built with plot.ly and Dash
+* [SafeGraph Weekly Patterns Disaster Response Map](https://disasterresponse.maps.arcgis.com/apps/InteractiveLegend/index.html?appid=73fd8d40039c4df2a0e0644c35ab75e9) from Esri -- built with Arcgis Online
+* [Social Distancing Compliance Dashboard for City of San Jose](https://stanfordfuturebay.shinyapps.io/sanjose/) from [Stanford Future Bay](http://bay.stanford.edu/covid19)using R Shiny 
+* [Covid-19 Cases and Point-of-interest Visit correlation dashboard](https://stanfordfuturebay.shinyapps.io/cases_visits_dashboard/) from [Stanford Future Bay](http://bay.stanford.edu/covid19) using R Shiny 
+* [UT Austin Covid-19 Forecasting using SafeGraph data](https://covid-19.tacc.utexas.edu/projections/) 
 
 ----------
 ## Helpful Free Software / Websites 
