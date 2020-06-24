@@ -50,7 +50,7 @@ A list of code snippets, scripts, notebooks, and workflows for reproducing aweso
 
 ### STATA
 * Awesome examples of SafeGraph data analysis with STATA
-
+.
 
 ----------
 ## Analysis Frameworks
