@@ -75,6 +75,7 @@ A list of code snippets, scripts, notebooks, and workflows for reproducing aweso
 * [SafeGraph USA census block group lookup and visualization](http://safegraph.maps.arcgis.com/apps/webappviewer/index.html?id=d2a747428fd74ba6ae80ca6d677672bd) -- want to quickly see the shape of a CBG on a map? 
 * [Movable-type Geohashes page](https://www.movable-type.co.uk/scripts/geohash.html)
 * [arthur-e polygon WKT visualization](https://arthur-e.github.io/Wicket/sandbox-gmaps3.html)
+* [Google CoLab](https://colab.research.google.com/notebooks/intro.ipynb) -- FREE cloud-hosted python notebooks 
 
 
 ----------
