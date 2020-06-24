@@ -32,6 +32,8 @@ A list of code snippets, scripts, notebooks, and workflows for reproducing aweso
 * [Python Library for wrangling Open Census Data for Demographic Analysis](https://github.com/ryanfoxsquire/safegraph_demo_profile) by [Ryan Fox Squire](https://github.com/ryanfoxsquire) (SafeGraph)
 * [Databricks Python Notebook: Simple Demo of Analyzing Starbucks visitors from SafeGraph Patterns](https://kona-demo-s3.s3.us-east-2.amazonaws.com/databricks-safegraph-aws-junto/Safegraph-Starbucks-Demo.html) by [Ryan Fox Squire](https://github.com/ryanfoxsquire) (SafeGraph)
 * [Calulate area / square footage from SafeGraph Geometry polygon_wkt using geopandas](https://colab.research.google.com/drive/1gnImutSovH9zBr1yuazfsy4DfIGm3dr9#forceEdit=true&sandboxMode=true&scrollTo=soL6rZLeJlpw) by [Ryan Fox Squire](https://github.com/ryanfoxsquire) (SafeGraph)
+* [Demo for getting started with Monthly Patterns Data in Jupyter Notebook with SQLite](https://github.com/SafeGraphInc/safegraph_py/blob/master/monthly-patterns-demo-SQLite.ipynb) by [Ryan Kruse](https://github.com/kruser1)
+* [Demo for getting started with Social Distancing Data in Jupyter Notebook with SQLite](https://github.com/SafeGraphInc/safegraph_py/blob/master/social-distancing-demo-SQLite.ipynb) by [Ryan Kruse](https://github.com/kruser1)
 
 ### R
 * The [SafeGraphR github repo](https://github.com/SafeGraphInc/SafeGraphR) -- Package for reading and analyzing SafeGraph foot traffic data
