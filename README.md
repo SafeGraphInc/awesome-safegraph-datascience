@@ -13,6 +13,10 @@ or
 
 Don't see a category that matches your needs--make a new one! 
 
+You can find out more about awesome-lists [HERE](https://github.com/sindresorhus/awesome/blob/main/contributing.md)
+
+If you would like to know about different methods in which to add to the awesome-list, please checkout this [step-by-step guide](https://docs.google.com/document/d/1QEQig2jo79D0pFio7D4LbMwwoKhytucScNtZXnUA4SU/edit?usp=sharing) 
+
 ## What is SafeGraph?
 
 [SafeGraph](https://www.safegraph.com/) is a geospatial data company. "Unlock innovation with the most accurate Points-of-Interest (POI) data, business listings, & store visitor insights data for commercial places in the U.S." Here is a full list of [SafeGraph data sets](https://docs.safegraph.com/docs/places-schema) which you can search in the [SafeGraph Data Bar](https://shop.safegraph.com/) (use coupon `AwesomeDataScience` for $100 free data).
