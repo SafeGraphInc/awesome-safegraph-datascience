@@ -13,6 +13,10 @@ or
 
 Don't see a category that matches your needs--make a new one! 
 
+You can find out more about awesome-lists [HERE](https://github.com/sindresorhus/awesome/blob/main/contributing.md)
+
+If you would like to know about different methods in which to add to the awesome-list, please checkout this [step-by-step guide](https://docs.google.com/document/d/1QEQig2jo79D0pFio7D4LbMwwoKhytucScNtZXnUA4SU/edit?usp=sharing) 
+
 ## What is SafeGraph?
 
 [SafeGraph](https://www.safegraph.com/) is a geospatial data company. "Unlock innovation with the most accurate Points-of-Interest (POI) data, business listings, & store visitor insights data for commercial places in the U.S." Here is a full list of [SafeGraph data sets](https://docs.safegraph.com/docs/places-schema) which you can search in the [SafeGraph Data Bar](https://shop.safegraph.com/) (use coupon `AwesomeDataScience` for $100 free data).
@@ -35,7 +39,6 @@ A list of code snippets, scripts, notebooks, and workflows for reproducing aweso
 * [Demo for getting started with Monthly Patterns Data in Jupyter Notebook with SQLite](https://github.com/SafeGraphInc/safegraph_py/blob/master/monthly-patterns-demo-SQLite.ipynb) from [Ryan Kruse](https://github.com/kruser1)
 * [Demo for getting started with Social Distancing Data in Jupyter Notebook with SQLite](https://github.com/SafeGraphInc/safegraph_py/blob/master/social-distancing-demo-SQLite.ipynb) from [Ryan Kruse](https://github.com/kruser1)
 * [Matching CBGs to ZCTAS (Zip code tabulation areas) using geopandas for Covid-19 research](https://github.com/graziul/covid19/blob/master/COVID-19%20CBG%20to%20ZCTA.ipynb) from [Chris Graziul](https://github.com/graziul/) (University of Chicago)
-* [test](test.com)
 
 ### R
 * The [SafeGraphR github repo](https://github.com/SafeGraphInc/SafeGraphR) -- Package for reading and analyzing SafeGraph foot traffic data
