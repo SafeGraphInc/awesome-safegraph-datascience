@@ -39,6 +39,7 @@ A list of code snippets, scripts, notebooks, and workflows for reproducing aweso
 * [Demo for getting started with Monthly Patterns Data in Jupyter Notebook with SQLite](https://github.com/SafeGraphInc/safegraph_py/blob/master/monthly-patterns-demo-SQLite.ipynb) from [Ryan Kruse](https://github.com/kruser1)
 * [Demo for getting started with Social Distancing Data in Jupyter Notebook with SQLite](https://github.com/SafeGraphInc/safegraph_py/blob/master/social-distancing-demo-SQLite.ipynb) from [Ryan Kruse](https://github.com/kruser1)
 * [Matching CBGs to ZCTAS (Zip code tabulation areas) using geopandas for Covid-19 research](https://github.com/graziul/covid19/blob/master/COVID-19%20CBG%20to%20ZCTA.ipynb) from [Chris Graziul](https://github.com/graziul/) (University of Chicago)
+* [Merging patterns with core_places](https://colab.research.google.com/drive/1OscKxe9rvNNiiyN6iJ_pb0-Ubeeln2tZ?usp=sharing) - a short notebook displaying how you can merge the weekly patterns to the core places data.
 
 ### R
 * The [SafeGraphR github repo](https://github.com/SafeGraphInc/SafeGraphR) -- Package for reading and analyzing SafeGraph foot traffic data
