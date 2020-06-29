@@ -40,7 +40,8 @@ A list of code snippets, scripts, notebooks, and workflows for reproducing aweso
 * [Demo for getting started with Social Distancing Data in Jupyter Notebook with SQLite](https://github.com/SafeGraphInc/safegraph_py/blob/master/social-distancing-demo-SQLite.ipynb) from [Ryan Kruse](https://github.com/kruser1)
 * [Matching CBGs to ZCTAS (Zip code tabulation areas) using geopandas for Covid-19 research](https://github.com/graziul/covid19/blob/master/COVID-19%20CBG%20to%20ZCTA.ipynb) from [Chris Graziul](https://github.com/graziul/) (University of Chicago)
 * [Unfolded SQL-Query Helper for directly querying Unfolded in Python](https://github.com/bpblakely/unfolded-sql-helper) from [Brian Blakely](https://github.com/bpblakely) (Bowling Green State University)
-* [Merging patterns with core_places](https://colab.research.google.com/drive/1OscKxe9rvNNiiyN6iJ_pb0-Ubeeln2tZ?usp=sharing) - a short notebook displaying how you can merge the weekly patterns to the core places data.
+* [Merging patterns with core_places](https://colab.research.google.com/drive/1OscKxe9rvNNiiyN6iJ_pb0-Ubeeln2tZ?usp=sharing) from [Jack Lindsay](https://github.com/Trippl7777/code_repo) - a short notebook displaying how you can merge the weekly patterns to the core places data
+* [CBG to zipcode/ZCTA merge](https://colab.research.google.com/drive/15674RPOwzPFA961qs3hn-HY1XqwjuQPK?usp=sharing) - A notebook showing how to make a master dataset that includes a cross reference for nearly all CBG to ZCTA to Zipcode conversion
 
 
 ### R
