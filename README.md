@@ -50,6 +50,7 @@ A list of code snippets, scripts, notebooks, and workflows for reproducing aweso
 * A [Demonstration](https://nickch-k.github.io/SafeGraphRProcessing/County_Level_Distancing_Demonstration.html) of how to do population weighting and Hierarchical Bayes shrinkage with SafeGraph social distancing data.
 * For SafeGraph social distancing metrics, [map census tracts to zip codes](https://github.com/jwilliamsholt/safegraph-in-r/blob/master/social_distance_by_tract_and_by_zip.rmd). 
 * [Spatial crosswalks](https://github.com/jwilliamsholt/safegraph-in-r/blob/master/spatial-crosswalks.Rmd). Includes CBGs to ZCTAs, census tracts to zip codes, and zip codes to ZCTAs.
+* [Sample Raster Codes](https://github.com/kschertz/RasterCodes); getting raster statistics at census tract or county level.
 
 #### Basic R fuctions.
 * [Sync SafeGraph data](https://github.com/jwilliamsholt/safegraph-in-r/blob/master/sync-safegraph-endpoint.Rmd) to a local directory using the `aws.s3` package.
