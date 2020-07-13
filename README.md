@@ -74,6 +74,7 @@ A list of code snippets, scripts, notebooks, and workflows for reproducing aweso
 * [Calculate Statistics and Confidence Intervals from SafeGraph Patterns](https://blog.safegraph.com/demographic-profiles-with-rigorous-statistics-using-safegraph-patterns-data-9836b9d02310) from [Ryan Fox Squire](https://github.com/ryanfoxsquire) (SafeGraph)
 * [SafeGraph's Visit Attribution Whitepaper](https://www.safegraph.com/visit-attribution) -- How does SafeGraph combine GPS data and point-of-interest polygon data to measure visits. 
 * [Covid-19 Case Count Forecasting using SafeGraph data](https://github.com/UT-Covid/USmortality/blob/6058aec5333f9990ff0dfd47f74b85f6d7a9f073/README.md#what-data-sources-do-you-use) from UT Austin
+8 [A weekly fatality counts prediction model ](https://github.com/kpelechrinis/epiDAMIK20-COVID/blob/master/prediction/COVID19-prediction.ipynb) from [Kostas Pelechrinis](https://github.com/kpelechrinis)
 
 ----------
 ## Results, Dashboards, and Visualizations (Inspiration)
