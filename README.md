@@ -42,6 +42,7 @@ A list of code snippets, scripts, notebooks, and workflows for reproducing aweso
 * [Unfolded SQL-Query Helper for directly querying Unfolded in Python](https://github.com/bpblakely/unfolded-sql-helper) from [Brian Blakely](https://github.com/bpblakely) (Bowling Green State University)
 * [Merging patterns with core_places](https://colab.research.google.com/drive/1OscKxe9rvNNiiyN6iJ_pb0-Ubeeln2tZ?usp=sharing) from [Jack Lindsay](https://github.com/Trippl7777/code_repo) - a short notebook displaying how you can merge the weekly patterns to the core places data
 * [CBG to zipcode/ZCTA merge](https://colab.research.google.com/drive/15674RPOwzPFA961qs3hn-HY1XqwjuQPK?usp=sharing) - A notebook showing how to make a master dataset that includes a cross reference for nearly all CBG to ZCTA to Zipcode conversion
+* [Automated Download and Filtering, Prep for Normalization (Monthly Patterns)](https://colab.research.google.com/drive/1osFqVNDNZX1RngQPCd2ntG0qxQmxF4zY?usp=sharing) - A notebook to easily filter monthly patterns to your desired POIs, and prepare data for use with [SafeGraph's normalization best practices](https://colab.research.google.com/drive/16BELpcum4TKoH-5wg8Xym_CGgIGgpu1I?usp=sharing) from [Ryan Fox Squire](https://github.com/ryanfoxsquire) from [Ryan Kruse](https://github.com/kruser1)
 
 
 ### R
