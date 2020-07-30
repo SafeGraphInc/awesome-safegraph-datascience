@@ -25,26 +25,27 @@ If you would like to know about different methods in which to add to the awesome
 ## Code
 A list of code snippets, scripts, notebooks, and workflows for reproducing awesome data science with SafeGraph data
 
-### python 
-* [SafeGraph Core Places Starter Notebook -- CoLab](https://colab.research.google.com/drive/1OUopjpogmucEghS_7Ufxl3lKIp8s9H1h#offline=true&sandboxMode=true) from [Ryan Fox Squire](https://github.com/ryanfoxsquire) (SafeGraph) -- Brand new to SafeGraph Places data? This will help you get oriented. 
-* [Simple Outlier Filtering -- CoLab Notebook](https://colab.research.google.com/drive/1LwQNJp9qI0abUzd5jYwT_xJTHJ98iZsD#sandboxMode=true) from [Ryan Fox Squire](https://github.com/ryanfoxsquire) (SafeGraph) -- Python Google CoLab Notebook showing simple IQR\*k based outlier filtering
+### Python Code, Tools, Tutorials 
+* [SafeGraph Core Places Starter Notebook -- CoLab](https://colab.research.google.com/drive/1OUopjpogmucEghS_7Ufxl3lKIp8s9H1h#offline=true&sandboxMode=true) from [Ryan Fox Squire](https://github.com/ryanfoxsquire) (SafeGraph) -- Brand new to SafeGraph Places data? This will help you get oriented.
+* [Simple Outlier Filtering -- CoLab Notebook](https://colab.research.google.com/drive/1LwQNJp9qI0abUzd5jYwT_xJTHJ98iZsD#sandboxMode=true) from [Ryan Fox Squire](https://github.com/ryanfoxsquire) (SafeGraph) -- Python Google CoLab Notebook showing simple IQR\*k based outlier filtering 
+* [Connecting Safegraph_place_id to Census Block Groups (CBGs) -- CoLab notebook](https://colab.research.google.com/drive/1Kt3vPVIQJUq4QeJ-rE08URpIJEr1g2H3#offline=true&sandboxMode=true) by [Ryan Fox Squire](https://github.com/ryanfoxsquire)
 * [Quickly visualize SafeGraph data on a map with python -- CoLab Notebook](https://colab.research.google.com/drive/1_0KvKUMYP1mf6ZAhM0X4LTDUPHzsz40e#offline=true&sandboxMode=true) from [Ryan Fox Squire](https://github.com/ryanfoxsquire)
-* [Accessing JSON objects inside of Pandas](https://colab.research.google.com/drive/1Bcx-JI2qfUbRPJ4N9NhwpgASRZsSVxPp?usp=sharing) from [Jack Lindsay](https://github.com/Trippl7777/code_repo) Python Google Co-Lab Notebook showing how to explode JSON objects into multiple columns
-*	[Connecting Safegraph_place_id to Census Block Groups (CBGs) -- CoLab notebook](https://colab.research.google.com/drive/1Kt3vPVIQJUq4QeJ-rE08URpIJEr1g2H3#offline=true&sandboxMode=true) by [Ryan Fox Squire](https://github.com/ryanfoxsquire)
 * [Download from Wasabi with Boto3](https://github.com/kruser1/safegraph_py/blob/master/Boto3_template.py) from Thomas Roderick
-* [Demo for getting started with SafeGraph Open Census Data Google CoLab Notebook](https://colab.research.google.com/drive/1JgU2MPUrITJBiEynZnFrZ8JyZAFYZY_1#offline=true&sandboxMode=true) from [Ryan Fox Squire](https://github.com/ryanfoxsquire) (SafeGraph)
 * [Python Library for wrangling Open Census Data for Demographic Analysis](https://github.com/ryanfoxsquire/safegraph_demo_profile) from [Ryan Fox Squire](https://github.com/ryanfoxsquire) (SafeGraph)
-* [Databricks Python Notebook: Simple Demo of Analyzing Starbucks visitors from SafeGraph Patterns](https://kona-demo-s3.s3.us-east-2.amazonaws.com/databricks-safegraph-aws-junto/Safegraph-Starbucks-Demo.html) from [Ryan Fox Squire](https://github.com/ryanfoxsquire) (SafeGraph)
-* [Calulate area / square footage from SafeGraph Geometry polygon_wkt using geopandas](https://colab.research.google.com/drive/1gnImutSovH9zBr1yuazfsy4DfIGm3dr9#forceEdit=true&sandboxMode=true&scrollTo=soL6rZLeJlpw) from [Ryan Fox Squire](https://github.com/ryanfoxsquire) (SafeGraph)
-* [Demo for getting started with Monthly Patterns Data in Jupyter Notebook with SQLite](https://github.com/kruser1/safegraph_py/blob/master/monthly-patterns-demo-SQLite.ipynb) from [Ryan Kruse](https://github.com/kruser1)
-* [Demo for getting started with Social Distancing Data in Jupyter Notebook with SQLite](https://github.com/kruser1/safegraph_py/blob/master/social-distancing-demo-SQLite.ipynb) from [Ryan Kruse](https://github.com/kruser1)
+* [Calculate area / square footage from SafeGraph Geometry polygon_wkt using geopandas](https://colab.research.google.com/drive/1gnImutSovH9zBr1yuazfsy4DfIGm3dr9#forceEdit=true&sandboxMode=true&scrollTo=soL6rZLeJlpw) from [Ryan Fox Squire](https://github.com/ryanfoxsquire) (SafeGraph)
 * [Matching CBGs to ZCTAS (Zip code tabulation areas) using geopandas for Covid-19 research](https://github.com/graziul/covid19/blob/master/COVID-19%20CBG%20to%20ZCTA.ipynb) from [Chris Graziul](https://github.com/graziul/) (University of Chicago)
 * [Unfolded SQL-Query Helper for directly querying Unfolded in Python](https://github.com/bpblakely/unfolded-sql-helper) from [Brian Blakely](https://github.com/bpblakely) (Bowling Green State University)
-* [Merging patterns with core_places](https://colab.research.google.com/drive/1OscKxe9rvNNiiyN6iJ_pb0-Ubeeln2tZ?usp=sharing) from [Jack Lindsay](https://github.com/Trippl7777/code_repo) - a short notebook displaying how you can merge the weekly patterns to the core places data
-* [CBG to zipcode/ZCTA merge](https://colab.research.google.com/drive/15674RPOwzPFA961qs3hn-HY1XqwjuQPK?usp=sharing) - A notebook showing how to make a master dataset that includes a cross reference for nearly all CBG to ZCTA to Zipcode conversion
+* [CBG to zip code/ZCTA merge](https://colab.research.google.com/drive/15674RPOwzPFA961qs3hn-HY1XqwjuQPK?usp=sharing) - A notebook showing how to make a master dataset that includes a cross reference for nearly all CBG to ZCTA to Zip code conversion
 * [Automated Download and Filtering, Prep for Normalization (Monthly Patterns)](https://colab.research.google.com/drive/1osFqVNDNZX1RngQPCd2ntG0qxQmxF4zY?usp=sharing) - A notebook to easily filter monthly patterns to your desired POIs, and prepare data for use with [SafeGraph's normalization best practices](https://colab.research.google.com/drive/16BELpcum4TKoH-5wg8Xym_CGgIGgpu1I?usp=sharing), allowing you to start analyzing more quickly from [Ryan Kruse](https://github.com/kruser1)
 * [Aggregate social distancing metrics visits from origin CBG to destination CBG at the county level](https://colab.research.google.com/drive/1-5HtJkYiD9rLWV-RiSS85wHRJqfDU_q8#scrollTo=i7MqCBkqjrCs) by [Ruowei Yang](https://github.com/yangruowei)
+* [Demo for getting started with SafeGraph Open Census Data Google CoLab Notebook](https://colab.research.google.com/drive/1JgU2MPUrITJBiEynZnFrZ8JyZAFYZY_1#offline=true&sandboxMode=true) from [Ryan Fox Squire](https://github.com/ryanfoxsquire) (SafeGraph)
+* [Demo for getting started with Monthly Patterns Data in Jupyter Notebook with SQLite](https://github.com/kruser1/safegraph_py/blob/master/monthly-patterns-demo-SQLite.ipynb) from [Ryan Kruse](https://github.com/kruser1)
+* [Demo for getting started with Social Distancing Data in Jupyter Notebook with SQLite](https://github.com/kruser1/safegraph_py/blob/master/social-distancing-demo-SQLite.ipynb) from [Ryan Kruse](https://github.com/kruser1)
+* [Merging patterns with core_places](https://colab.research.google.com/drive/1OscKxe9rvNNiiyN6iJ_pb0-Ubeeln2tZ?usp=sharing) from [Jack Lindsay](https://github.com/Trippl7777/code_repo) - a short notebook displaying how you can merge the weekly patterns to the core places data
 
+### Awesome Python Analysis Projects
+* [Databricks Python Notebook: Simple Demo of Analyzing Starbuck's visitors from SafeGraph Patterns](https://kona-demo-s3.s3.us-east-2.amazonaws.com/databricks-safegraph-aws-junto/Safegraph-Starbucks-Demo.html) from [Ryan Fox Squire](https://github.com/ryanfoxsquire) (SafeGraph)
+* [Demo for using PPP loan data and Core SafeGraph data](https://colab.research.google.com/drive/1uUbNEfeNGZu-FTzJa1oYHhIzOxecXdL9?usp=sharing) from [Jack Lindsay](https://github.com/Trippl7777/code_repo) - a CoLab notebook showing how the SafeGraph core places data can be used as a master list of certain NAICS codes.
 
 ### R
 * The [SafeGraphR github repo](https://github.com/SafeGraphInc/SafeGraphR) -- Package for reading and analyzing SafeGraph foot traffic data
@@ -54,7 +55,7 @@ A list of code snippets, scripts, notebooks, and workflows for reproducing aweso
 * [Spatial crosswalks](https://github.com/jwilliamsholt/safegraph-in-r/blob/master/spatial-crosswalks.Rmd). Includes CBGs to ZCTAs, census tracts to zip codes, and zip codes to ZCTAs.
 * [Sample Raster Codes](https://github.com/kschertz/RasterCodes); getting raster statistics at census tract or county level.
 
-#### Basic R fuctions.
+#### Basic R functions.
 * [Sync SafeGraph data](https://github.com/jwilliamsholt/safegraph-in-r/blob/master/sync-safegraph-endpoint.Rmd) to a local directory using the `aws.s3` package.
 
 ### Excel / Spreadsheets
@@ -67,7 +68,7 @@ A list of code snippets, scripts, notebooks, and workflows for reproducing aweso
 ----------
 ## Analysis Frameworks
 * [Best Practices For Correlating SafeGraph Patterns With Other Datasets Across Time](https://colab.research.google.com/drive/16BELpcum4TKoH-5wg8Xym_CGgIGgpu1I?usp=sharing) from [Ryan Fox Squire](https://github.com/ryanfoxsquire) (SafeGraph) 
-* [Macro and Micro approaches to estimating true counts from SafeGraph data](https://docs.google.com/presentation/d/1a7lmVtulPpvuH-TPgsR_t5WUQPdT28c_ymyx_Bcankk/edit#slide=id.g86ef4ba4cf_0_922) from [Derek Ouyang](https://github.com/derekouyang) ([Stanford Future Bay Initiatve](https://github.com/stanfordfuturebay/stanfordfuturebay.github.io/tree/master/covid19))
+* [Macro and Micro approaches to estimating true counts from SafeGraph data](https://docs.google.com/presentation/d/1a7lmVtulPpvuH-TPgsR_t5WUQPdT28c_ymyx_Bcankk/edit#slide=id.g86ef4ba4cf_0_922) from [Derek Ouyang](https://github.com/derekouyang) ([Stanford Future Bay Initiative](https://github.com/stanfordfuturebay/stanfordfuturebay.github.io/tree/master/covid19))
 * [Memo](https://docs.google.com/document/d/1EBnvd_CHKJ1Tzsvi364xK13YAg3tH2BTscHQ7JrPgxg/edit?usp=sharing) and [Spreadsheet Example](https://docs.google.com/spreadsheets/d/1A0KLTyRzx2DrYbagyi4_W4bKmgHqIsKGnq4O4W-tGy4/edit?usp=sharing) for Simple Example of "Micro" CBG-based Normalization to estimate "True Visits" by day --  from [Ryan Fox Squire](https://github.com/ryanfoxsquire) (SafeGraph)
 * [Details on The Covid19 Commerce Patterns Dashboard from SafeGraph](https://docs.google.com/document/d/1lWodAzENz6rMlcFdPi6Y_B4M_ruCyXgeYoC8k9yY2eI/edit?usp=sharing) from [Ryan Fox Squire](https://github.com/ryanfoxsquire) (SafeGraph)
 * [Data Analysis Methodology for the SafeGraph Stay-At-Home Index](https://docs.google.com/document/d/1k_9LGQn95P5gHsSeuBdzgtEWGGCmzXdcOkcphWi0Cas/edit?usp=sharing) from [Ryan Fox Squire](https://github.com/ryanfoxsquire) (SafeGraph)
@@ -126,7 +127,7 @@ A list of code snippets, scripts, notebooks, and workflows for reproducing aweso
 * The coronavirus (COVID-19) global pandemic has brought massive and ongoing changes, including to how people interact with their surroundings and participate in the economy. SafeGraph is providing free access to various datasets to help researchers, non-profits, and governments around the world respond to COVID-19 (Coronavirus).
 * [Sign-up to join the Data Consortium](https://www.safegraph.com/covid-19-data-consortium)
 * [SafeGraph Data Consortium Quick Start Guide](https://docs.google.com/document/d/1Xx-nzOX1qF3WfOpg4D8aemwFrrAkQaJuT0-1-CbgxQs/edit?usp=sharing)
-* [SafeGraph Data Consosrtium Products Spreadsheet](https://docs.google.com/spreadsheets/d/1UNWvPzkUTTlXBZ6M6iGhM_7sr8h-MxsZdE7iOszkAmk/edit#gid=0)
+* [SafeGraph Data Consortium Products Spreadsheet](https://docs.google.com/spreadsheets/d/1UNWvPzkUTTlXBZ6M6iGhM_7sr8h-MxsZdE7iOszkAmk/edit#gid=0)
 * [Data Consortium FAQ](https://docs.google.com/document/d/1h-pkpIZWeynF3_BcylRmgeWS7282kIUGoM0TSSIUhgM/edit?usp=sharing)
 
 
