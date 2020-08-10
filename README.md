@@ -26,6 +26,7 @@ If you would like to know about different methods in which to add to the awesome
 A list of code snippets, scripts, notebooks, and workflows for reproducing awesome data science with SafeGraph data
 
 ### Python Code, Tools, Tutorials 
+* [safegraph_py](https://github.com/SafeGraphInc/safegraph_py) -- a Python library designed to make your experiece with SafeGraph data as easy as possible. From [Ryan Fox Squire](https://github.com/ryanfoxsquire) (SafeGraph), [Jack Lindsay](https://github.com/Trippl7777) and community members. Please contribute!
 * [SafeGraph Core Places Starter Notebook -- CoLab](https://colab.research.google.com/drive/1OUopjpogmucEghS_7Ufxl3lKIp8s9H1h#offline=true&sandboxMode=true) from [Ryan Fox Squire](https://github.com/ryanfoxsquire) (SafeGraph) -- Brand new to SafeGraph Places data? This will help you get oriented.
 * [Simple Outlier Filtering -- CoLab Notebook](https://colab.research.google.com/drive/1LwQNJp9qI0abUzd5jYwT_xJTHJ98iZsD#sandboxMode=true) from [Ryan Fox Squire](https://github.com/ryanfoxsquire) (SafeGraph) -- Python Google CoLab Notebook showing simple IQR\*k based outlier filtering 
 * [Connecting Safegraph_place_id to Census Block Groups (CBGs) -- CoLab notebook](https://colab.research.google.com/drive/1Kt3vPVIQJUq4QeJ-rE08URpIJEr1g2H3#offline=true&sandboxMode=true) by [Ryan Fox Squire](https://github.com/ryanfoxsquire)
@@ -42,7 +43,6 @@ A list of code snippets, scripts, notebooks, and workflows for reproducing aweso
 * [Demo for getting started with Monthly Patterns Data in Jupyter Notebook with SQLite](https://github.com/kruser1/safegraph_py/blob/master/monthly-patterns-demo-SQLite.ipynb) from [Ryan Kruse](https://github.com/kruser1)
 * [Demo for getting started with Social Distancing Data in Jupyter Notebook with SQLite](https://github.com/kruser1/safegraph_py/blob/master/social-distancing-demo-SQLite.ipynb) from [Ryan Kruse](https://github.com/kruser1)
 * [Merging patterns with core_places](https://colab.research.google.com/drive/1OscKxe9rvNNiiyN6iJ_pb0-Ubeeln2tZ?usp=sharing) from [Jack Lindsay](https://github.com/Trippl7777/code_repo) - a short notebook displaying how you can merge the weekly patterns to the core places data
-* [Visualizing Catchment Analysis with SafeGraph Patterns](https://colab.research.google.com/drive/1cUS3q7RgHezeIFUR2Z6S6l-y8nzuFAJb?usp=sharing) from [Ryan Kruse](https://github.com/kruser1)
 
 ### Awesome Python Analysis Projects
 * [Databricks Python Notebook: Simple Demo of Analyzing Starbuck's visitors from SafeGraph Patterns](https://kona-demo-s3.s3.us-east-2.amazonaws.com/databricks-safegraph-aws-junto/Safegraph-Starbucks-Demo.html) from [Ryan Fox Squire](https://github.com/ryanfoxsquire) (SafeGraph)
