@@ -90,6 +90,7 @@ A list of code snippets, scripts, notebooks, and workflows for reproducing aweso
 * [Social Distancing Compliance Dashboard for City of San Jose](https://stanfordfuturebay.shinyapps.io/sanjose/) from [Stanford Future Bay](http://bay.stanford.edu/covid19)using R Shiny 
 * [Covid-19 Cases and Point-of-interest Visit correlation dashboard](https://stanfordfuturebay.shinyapps.io/cases_visits_dashboard/) from [Stanford Future Bay](http://bay.stanford.edu/covid19) using R Shiny 
 * [UT Austin Covid-19 Forecasting using SafeGraph data](https://covid-19.tacc.utexas.edu/projections/) 
+* [SafeGraph Places Comparison Dashboard](https://nickch-k.shinyapps.io/houston_dash_example/) -- A dashboard that allows you to compare two different (sets of) POIs in terms of where they get their visitors from, and what the characteristics of those places are. Currently uses Harris County (Houston) example data but could easily be redone with a different area. Code in the [GitHub Repo](https://github.com/NickCH-K/SafeGraphCompareDashboard).
 
 ----------
 ## Helpful Free Software / Websites 
