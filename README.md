@@ -81,6 +81,7 @@ A list of code snippets, scripts, notebooks, and workflows for reproducing aweso
 * [SafeGraph's Visit Attribution Whitepaper](https://www.safegraph.com/visit-attribution) -- How does SafeGraph combine GPS data and point-of-interest polygon data to measure visits. 
 * [Covid-19 Case Count Forecasting using SafeGraph data](https://github.com/UT-Covid/USmortality/blob/6058aec5333f9990ff0dfd47f74b85f6d7a9f073/README.md#what-data-sources-do-you-use) from UT Austin
 8 [A weekly fatality counts prediction model ](https://github.com/kpelechrinis/epiDAMIK20-COVID/blob/master/prediction/COVID19-prediction.ipynb) from [Kostas Pelechrinis](https://github.com/kpelechrinis)
+* [Analyzing Top Brands in SafeGraph Neighborhood Patterns Data](https://github.com/land-rover/safegraph-brand-analysis) -- A NLP approach to SafeGraph Top Brand analysis. 
 
 ----------
 ## Results, Dashboards, and Visualizations (Inspiration)
