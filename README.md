@@ -94,7 +94,7 @@ A list of code snippets, scripts, notebooks, and workflows for reproducing aweso
 * [UT Austin Covid-19 Forecasting using SafeGraph data](https://covid-19.tacc.utexas.edu/projections/) 
 * [SafeGraph Places Comparison Dashboard](https://nickch-k.shinyapps.io/houston_dash_example/) -- A dashboard that allows you to compare two different (sets of) POIs in terms of where they get their visitors from, and what the characteristics of those places are. Currently uses Harris County (Houston) example data but could easily be redone with a different area. Code in the [GitHub Repo](https://github.com/NickCH-K/SafeGraphCompareDashboard).
 * [Tableau Dashboard](https://public.tableau.com/shared/6TTTCYYX8?:display_count=y&:origin=viz_share_link). This is an interactive comparison of movement between counties by day using Tableau as the visualization tool.
-
+* [ODT Flow Explorer](http://gis.cas.sc.edu/GeoAnalytics/od.html). This is an interactive spatial web portal that allows you to query, aggregate, visualize, and download daily  origin-destination (OD) flows derived from SafeGraph data and Twitter data at various geographic scales (from local to global). 
 ----------
 ## Helpful Free Software / Websites 
 * [SafeGraph Free Point-of-interest Matching Tool](https://docs.safegraph.com/docs/matching-service-overview)
@@ -136,7 +136,6 @@ A list of code snippets, scripts, notebooks, and workflows for reproducing aweso
 * [SafeGraph Data Consortium Quick Start Guide](https://docs.google.com/document/d/1Xx-nzOX1qF3WfOpg4D8aemwFrrAkQaJuT0-1-CbgxQs/edit?usp=sharing)
 * [SafeGraph Data Consortium Products Spreadsheet](https://docs.google.com/spreadsheets/d/1UNWvPzkUTTlXBZ6M6iGhM_7sr8h-MxsZdE7iOszkAmk/edit#gid=0)
 * [Data Consortium FAQ](https://docs.google.com/document/d/1h-pkpIZWeynF3_BcylRmgeWS7282kIUGoM0TSSIUhgM/edit?usp=sharing)
-
 
 
 
