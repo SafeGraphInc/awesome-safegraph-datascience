@@ -132,10 +132,10 @@ A list of code snippets, scripts, notebooks, and workflows for reproducing aweso
 ----------
 ## SafeGraph Community
 * The coronavirus (COVID-19) global pandemic has brought massive and ongoing changes, including to how people interact with their surroundings and participate in the economy. SafeGraph is providing free access to various datasets to help researchers, non-profits, and governments around the world respond to COVID-19 (Coronavirus).
-* [Sign-up to join the Data Consortium](https://www.safegraph.com/covid-19-data-consortium)
-* [SafeGraph Data Consortium Quick Start Guide](https://docs.google.com/document/d/1Xx-nzOX1qF3WfOpg4D8aemwFrrAkQaJuT0-1-CbgxQs/edit?usp=sharing)
-* [SafeGraph Data Consortium Products Spreadsheet](https://docs.google.com/spreadsheets/d/1UNWvPzkUTTlXBZ6M6iGhM_7sr8h-MxsZdE7iOszkAmk/edit#gid=0)
-* [Data Consortium FAQ](https://docs.google.com/document/d/1h-pkpIZWeynF3_BcylRmgeWS7282kIUGoM0TSSIUhgM/edit?usp=sharing)
+* [Sign-up to join the Placekey Community](https://www.safegraph.com/covid-19-data-consortium)
+* [SafeGraph Placekey Community Quick Start Guide](https://docs.google.com/document/d/1Xx-nzOX1qF3WfOpg4D8aemwFrrAkQaJuT0-1-CbgxQs/edit?usp=sharing)
+* [SafeGraph Placekey Community Products Spreadsheet](https://docs.google.com/spreadsheets/d/1UNWvPzkUTTlXBZ6M6iGhM_7sr8h-MxsZdE7iOszkAmk/edit#gid=0)
+* [Data Placekey Community FAQ](https://docs.google.com/document/d/1h-pkpIZWeynF3_BcylRmgeWS7282kIUGoM0TSSIUhgM/edit?usp=sharing)
 
 
 
