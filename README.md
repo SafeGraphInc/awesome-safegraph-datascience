@@ -130,7 +130,7 @@ A list of code snippets, scripts, notebooks, and workflows for reproducing aweso
 
 
 ----------
-## SafeGraph Data Consortium
+## SafeGraph Community
 * The coronavirus (COVID-19) global pandemic has brought massive and ongoing changes, including to how people interact with their surroundings and participate in the economy. SafeGraph is providing free access to various datasets to help researchers, non-profits, and governments around the world respond to COVID-19 (Coronavirus).
 * [Sign-up to join the Data Consortium](https://www.safegraph.com/covid-19-data-consortium)
 * [SafeGraph Data Consortium Quick Start Guide](https://docs.google.com/document/d/1Xx-nzOX1qF3WfOpg4D8aemwFrrAkQaJuT0-1-CbgxQs/edit?usp=sharing)
