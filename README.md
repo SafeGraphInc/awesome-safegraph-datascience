@@ -1,7 +1,7 @@
 # awesome-safegraph-datascience
 
 This site is a community, crowdsourced collection of code, tools, datasets, and other resources related to 
-SafeGraph Data and the [Placekey COmmunity](https://www.safegraph.com/covid-19-data-consortium). Thousands of organizations work with SafeGraph Data, and are contributing to COVID-19 data science research through the [Placekey Community](https://github.com/SafeGraphInc/awesome-safegraph-datascience#safegraph-data-consortium). We are leveraging the [awesome-list] approach to organize and share the rapidly growing set of contributions from this community.
+SafeGraph Data and the [Placekey Community](https://www.safegraph.com/covid-19-data-consortium). Thousands of organizations work with SafeGraph Data, and are contributing to COVID-19 data science research through the [Placekey Community](https://github.com/SafeGraphInc/awesome-safegraph-datascience#safegraph-data-consortium). We are leveraging the [awesome-list] approach to organize and share the rapidly growing set of contributions from this community.
 
 **Please add to the list** :thumbsup: :chart_with_upwards_trend: **:**
 
