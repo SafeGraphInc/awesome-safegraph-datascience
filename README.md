@@ -70,7 +70,8 @@ A list of code snippets, scripts, notebooks, and workflows for reproducing aweso
 
 ----------
 ## Analysis Frameworks
-* [Best Practices For Correlating SafeGraph Patterns With Other Datasets Across Time](https://colab.research.google.com/drive/16BELpcum4TKoH-5wg8Xym_CGgIGgpu1I?usp=sharing) from [Ryan Fox Squire](https://github.com/ryanfoxsquire) (SafeGraph) 
+* [Simple Methods for Normalizing SafeGraph Patterns Data Over Time](https://colab.research.google.com/drive/1lTi8JXfX9rh2mnuFjgYgKsIcMcDI3EG_?usp=sharing) from [Eugene Chong](https://github.com/e-chong) (SafeGraph) 
+* [Advanced Methods for Correlating SafeGraph Patterns With Other Datasets Across Time](https://colab.research.google.com/drive/16BELpcum4TKoH-5wg8Xym_CGgIGgpu1I?usp=sharing) from [Ryan Fox Squire](https://github.com/ryanfoxsquire) (SafeGraph) 
 * [Macro and Micro approaches to estimating true counts from SafeGraph data](https://docs.google.com/presentation/d/1a7lmVtulPpvuH-TPgsR_t5WUQPdT28c_ymyx_Bcankk/edit#slide=id.g86ef4ba4cf_0_922) from [Derek Ouyang](https://github.com/derekouyang) ([Stanford Future Bay Initiative](https://github.com/stanfordfuturebay/stanfordfuturebay.github.io/tree/master/covid19))
 * [Memo](https://docs.google.com/document/d/1EBnvd_CHKJ1Tzsvi364xK13YAg3tH2BTscHQ7JrPgxg/edit?usp=sharing) and [Spreadsheet Example](https://docs.google.com/spreadsheets/d/1A0KLTyRzx2DrYbagyi4_W4bKmgHqIsKGnq4O4W-tGy4/edit?usp=sharing) for Simple Example of "Micro" CBG-based Normalization to estimate "True Visits" by day --  from [Ryan Fox Squire](https://github.com/ryanfoxsquire) (SafeGraph)
 * [Details on The Covid19 Commerce Patterns Dashboard from SafeGraph](https://docs.google.com/document/d/1lWodAzENz6rMlcFdPi6Y_B4M_ruCyXgeYoC8k9yY2eI/edit?usp=sharing) from [Ryan Fox Squire](https://github.com/ryanfoxsquire) (SafeGraph)
