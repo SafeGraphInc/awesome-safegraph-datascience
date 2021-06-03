@@ -45,7 +45,7 @@ A list of code snippets, scripts, notebooks, and workflows for reproducing aweso
 * [Demo for getting started with Social Distancing Data in Jupyter Notebook with SQLite](https://github.com/kruser1/safegraph_py/blob/master/social-distancing-demo-SQLite.ipynb) from [Ryan Kruse](https://github.com/kruser1)
 * [Merging patterns with core_places](https://colab.research.google.com/drive/1OscKxe9rvNNiiyN6iJ_pb0-Ubeeln2tZ?usp=sharing) from [Jack Lindsay](https://github.com/Trippl7777/code_repo) - a short notebook displaying how you can merge the weekly patterns to the core places data
 * [Visualizing Catchment Analysis with SafeGraph Patterns](https://colab.research.google.com/drive/1cUS3q7RgHezeIFUR2Z6S6l-y8nzuFAJb?usp=sharing) from [Ryan Kruse](https://github.com/kruser1)
-* [Identifying CBGs with Anomalously High Number of Devices Residing](https://colab.research.google.com/drive/17-cpOxXN7PFUjdEHf329fmbyirmeuza6?usp=sharing) from Matthew Davidowicz.
+* [Identifying CBGs with Anomalously High Number of Devices Residing](https://colab.research.google.com/drive/17-cpOxXN7PFUjdEHf329fmbyirmeuza6?usp=sharing) from [Matthew Davidowicz](https://github.com/matt-dawidowicz).
 
 ### Awesome Python Analysis Projects
 * [Databricks Python Notebook: Simple Demo of Analyzing Starbuck's visitors from SafeGraph Patterns](https://kona-demo-s3.s3.us-east-2.amazonaws.com/databricks-safegraph-aws-junto/Safegraph-Starbucks-Demo.html) from [Ryan Fox Squire](https://github.com/ryanfoxsquire) (SafeGraph)
