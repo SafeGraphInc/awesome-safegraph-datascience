@@ -62,6 +62,9 @@ A list of code snippets, scripts, notebooks, and workflows for reproducing aweso
 #### Basic R functions.
 * [Sync SafeGraph data](https://github.com/jwilliamsholt/safegraph-in-r/blob/master/sync-safegraph-endpoint.Rmd) to a local directory using the `aws.s3` package.
 
+### SQL/ Snowflake
+* [SafeGraph Snowflake demo](https://github.com/jeffcfho/safegraph_snowflake_demo), a sequence of SQL queries demonstrating a comparison of SafeGraph Patterns data for two Starbucks locations, from [Jeff Ho](https://github.com/jeffcfho) (SafeGraph)
+
 ### Excel / Spreadsheets
 * Awesome examples of SafeGraph data analysis with spreadsheets
 
