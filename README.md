@@ -1,7 +1,7 @@
 # awesome-safegraph-datascience
 
 This site is a community, crowdsourced collection of code, tools, datasets, and other resources related to 
-SafeGraph Data and the [Placekey Community](https://www.safegraph.com/covid-19-data-consortium). Thousands of organizations work with SafeGraph Data, and are contributing to COVID-19 data science research through the [Placekey Community](https://github.com/SafeGraphInc/awesome-safegraph-datascience#safegraph-data-consortium). We are leveraging the [awesome-list] approach to organize and share the rapidly growing set of contributions from this community.
+SafeGraph Data and the [SafeGraph Community](https://www.safegraph.com/community). Thousands of organizations work with SafeGraph Data, and are contributing to COVID-19 data science research through the [SafeGraph Community](https://github.com/SafeGraphInc/awesome-safegraph-datascience#safegraph-data-consortium). We are leveraging the [awesome-list] approach to organize and share the rapidly growing set of contributions from this community.
 
 **Please add to the list** :thumbsup: :chart_with_upwards_trend: **:**
 
@@ -136,11 +136,10 @@ A list of code snippets, scripts, notebooks, and workflows for reproducing aweso
 
 ----------
 ## SafeGraph Community
-* The coronavirus (COVID-19) global pandemic has brought massive and ongoing changes, including to how people interact with their surroundings and participate in the economy. SafeGraph is providing free access to various datasets to help researchers, non-profits, and governments around the world respond to COVID-19 (Coronavirus).
-* [Sign-up to join the Placekey Community](https://www.safegraph.com/covid-19-data-consortium)
-* [SafeGraph Placekey Community Quick Start Guide](https://docs.google.com/document/d/1Xx-nzOX1qF3WfOpg4D8aemwFrrAkQaJuT0-1-CbgxQs/edit?usp=sharing)
-* [SafeGraph Placekey Community Products Spreadsheet](https://docs.google.com/spreadsheets/d/1UNWvPzkUTTlXBZ6M6iGhM_7sr8h-MxsZdE7iOszkAmk/edit#gid=0)
-* [Data Placekey Community FAQ](https://docs.google.com/document/d/1h-pkpIZWeynF3_BcylRmgeWS7282kIUGoM0TSSIUhgM/edit?usp=sharing)
+* Our community is where users of SafeGraph data come to get technical support, discover the latest news and trends in the geospatial industry, and colloborate with others on innovative projects. Over 9k leading researchers and industry professionals are part of this vibrant community and get access to exclusive events and seminars. SafeGraph is also committing to provide data free of charge to all individuals in the academic industry.
+* [Sign-up to join the SafeGraph Community](https://www.safegraph.com/community)
+* [SafeGraph SafeGraph Community Quick Start Guide](https://docs.google.com/document/d/1Xx-nzOX1qF3WfOpg4D8aemwFrrAkQaJuT0-1-CbgxQs/edit?usp=sharing)
+* [Data SafeGraph Community FAQ](https://docs.google.com/document/d/1h-pkpIZWeynF3_BcylRmgeWS7282kIUGoM0TSSIUhgM/edit?usp=sharing)
 
 
 
