@@ -101,6 +101,7 @@ A list of code snippets, scripts, notebooks, and workflows for reproducing aweso
 * [Tableau Dashboard](https://public.tableau.com/shared/6TTTCYYX8?:display_count=y&:origin=viz_share_link). This is an interactive comparison of movement between counties by day using Tableau as the visualization tool.
 * [ODT Flow Explorer](http://gis.cas.sc.edu/GeoAnalytics/od.html). This is an interactive spatial web portal that allows you to query, aggregate, visualize, and download daily  origin-destination (OD) flows derived from SafeGraph data and Twitter data at various geographic scales (from local to global). 
 ----------
+* [The Trade Economy Index & US Commercial Building Stock Model](https://tradesindex.org) - Interactive dashboard and open CSV/JSON dataset modeling 9,084,887 US commercial buildings, 241,694 municipal permits, and $226.9B in annual trade expenditure across 366 MSAs ([Building Calculator](https://levelcfo.com/tools/building-revenue-calculator/) | [GitHub](https://github.com/levelcfo/trade-economy-index-data)).
 ## Helpful Free Software / Websites 
 * [SafeGraph Free Point-of-interest Matching Tool](https://docs.safegraph.com/docs/matching-service-overview)
 * [How to Join X with Y](https://docs.google.com/spreadsheets/d/14xMfW9xAXZLWuNcrSzxL16ddve0HAQ21zh99RAOjpsM/edit?usp=sharing) a collection of free resources/tools for joining different geospatial areas together (e.g., County <> Zip Code)
